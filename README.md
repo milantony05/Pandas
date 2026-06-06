@@ -2,7 +2,7 @@
 
 This folder contains Python solution files for the LeetCode study plan [Introduction to Pandas](https://leetcode.com/studyplan/introduction-to-pandas).
 
-Structure:
+Content:
 
 Pandas Data Structures
 - Create a DataFrame from List
